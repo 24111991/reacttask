@@ -1,2 +1,2 @@
 # reacttask
-CRUD assignment for todo 
+CRUD assignment for todo list
